@@ -37,7 +37,7 @@ function App() {
                         <li>&nbsp;</li>
                     </ol> */}
                     <div className="slider_item">
-                        <img src="https://d1820pa95bipcd.cloudfront.net/files/c50b3e44a5634874bfdec41cce412fdc/content?width=426" className="h_100 img-fluid" alt="slider 01"/>
+                        <img src="https://raw.githubusercontent.com/Devildk384/swiper_pop/main/src/assets/kopie.png" className="h_100 img-fluid" alt="slider 01"/>
                         <div className="prime_decriptioin">
                             <div className="d-flex align-items-center">
                                 <img src="svg_prime/kabs_icon.svg" className="prime_logo" alt="Kabs Prime"/>
