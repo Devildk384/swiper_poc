@@ -1,5 +1,5 @@
 import React from "react";
-// import logo from '../public/kopie.png';
+import Video from "./assets/Bovolenta.mp4";
 import "./App.css";
 import Swiper from "react-id-swiper";
 
@@ -149,6 +149,26 @@ function App() {
                   src="https://raw.githubusercontent.com/Devildk384/swiper_pop/main/src/assets/Bovolenta_5.jpg"
                   className="h_100 img-fluid"
                   alt="slider 01"
+                />
+              </div>
+            </div>
+          </div>
+          <div className="slider_container">
+            <div className="slider_inner">
+              {/* <ol className="slider_indicators">
+                        <li className="active">&nbsp;</li>
+                        <li>&nbsp;</li>
+                        <li>&nbsp;</li>
+                        <li>&nbsp;</li>
+                        <li>&nbsp;</li>
+                    </ol> */}
+              <div className="slider_item">
+                <video
+                  autostart
+                  autoPlay
+                  src={Video}
+                  loop={true}
+                  type="video/mp4"
                 />
               </div>
             </div>

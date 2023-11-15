@@ -795,3 +795,7 @@ img.h_100.img-fluid {
   bottom: 0;
   z-index: 1;
 }
+
+video {
+  height: 667px !important;
+}
