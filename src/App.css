@@ -684,3 +684,79 @@ button.swiper-pagination-bullet {
   font-weight: 500;
   line-height: 1.2;
 }
+
+.prime_ads_wrapper .prime_slider_section .slider_container .slider_inner .slider_item .slider_caption .letter_spacing {
+  letter-spacing: 1px;
+  text-decoration: underline;
+}
+
+.fontweight500 {
+  font-weight: 500!important;
+}
+.letter_spacing {
+  letter-spacing: 8px;
+}
+.type_h5 {
+  color: #fff;
+  font: normal normal 600 20px/28px Calibre;
+  letter-spacing: 2px;
+}
+
+.prime_ads_wrapper .prime_slider_section .slider_container .slider_inner .slider_item .slider_caption {
+  position: absolute;
+  right: 0;
+  bottom: 18%;
+  left: 0;
+  z-index: 100;
+  z-index: 15;
+  display: flex;
+  justify-content: center;
+  padding-left: 0;
+  margin-right: 15%;
+  margin-left: 15%;
+  list-style: none;
+  flex-direction: column;
+  text-align: center;
+}
+
+.fontweight500 {
+  font-weight: 500!important;
+}
+
+.prime_btn, .prime_btn:hover {
+  color: #fff;
+  text-decoration: none;
+}
+.prime_btn {
+  background: hsla(0,0%,100%,.5);
+  border-radius: 100px;
+  padding: 8px 16px;
+  font-size: 20px;
+  font-weight: 700;
+  text-transform: none;
+  height: 41px;
+  font: normal normal 600 20px/28px Calibre;
+  letter-spacing: 1px;
+}
+.mt-3, .my-3 {
+  margin-top: 1em!important;
+}
+
+.prime_ads_wrapper .prime_slider_section .slider_container .slider_inner .slider_item .slider_footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: absolute;
+  z-index: 100;
+  bottom: 30px;
+  padding: 0 3rem;
+  color: #fff;
+}
+
+.prime_ads_wrapper .prime_slider_section .slider_container .slider_inner .slider_item .slider_footer .footer_elem {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
