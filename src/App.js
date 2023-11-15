@@ -94,7 +94,7 @@ function App() {
                     </ol> */}
               <div className="slider_item">
                 <img
-                  src="https://raw.githubusercontent.com/Devildk384/swiper_pop/main/src/assets/Bovolenta_2.webp"
+                  src="https://raw.githubusercontent.com/Devildk384/swiper_poc/main/src/assets/Bovolenta_2.webp"
                   className="h_100 img-fluid"
                   alt="slider 01"
                 />
@@ -112,7 +112,7 @@ function App() {
                     </ol> */}
               <div className="slider_item">
                 <img
-                  src="https://raw.githubusercontent.com/Devildk384/swiper_pop/main/src/assets/Bovolenta_3.webp"
+                  src="https://raw.githubusercontent.com/Devildk384/swiper_poc/main/src/assets/Bovolenta_3.webp"
                   className="h_100 img-fluid"
                   alt="slider 01"
                 />
@@ -130,7 +130,7 @@ function App() {
                     </ol> */}
               <div className="slider_item">
                 <img
-                  src="https://raw.githubusercontent.com/Devildk384/swiper_pop/main/src/assets/Bovolenta_4.webp"
+                  src="https://raw.githubusercontent.com/Devildk384/swiper_poc/main/src/assets/Bovolenta_4.webp"
                   className="h_100 img-fluid"
                   alt="slider 01"
                 />
@@ -148,7 +148,7 @@ function App() {
                     </ol> */}
               <div className="slider_item">
                 <img
-                  src="https://raw.githubusercontent.com/Devildk384/swiper_pop/main/src/assets/Bovolenta_5.jpg"
+                  src="https://raw.githubusercontent.com/Devildk384/swiper_poc/main/src/assets/Bovolenta_5.jpg"
                   className="h_100 img-fluid"
                   alt="slider 01"
                 />
