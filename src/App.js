@@ -10,6 +10,8 @@ function App() {
       el: ".swiper-pagination",
       clickable: true,
     },
+    loop: true,
+    slidesPerView: 'auto',
     // navigation: {
     //   nextEl: ".swiper-button-next",
     //   prevEl: ".swiper-button-prev",
@@ -166,6 +168,7 @@ function App() {
                 <video
                   autostart
                   autoPlay
+                  muted={true}
                   src={Video}
                   loop={true}
                   type="video/mp4"
